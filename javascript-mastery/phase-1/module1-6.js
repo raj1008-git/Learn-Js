@@ -37,8 +37,8 @@
 // When file has many logs, use seperators to group related output
 // This is a simple but effective habit for readable terminal output
 
-console.log('--- User Validation Start ---');
-console.log('Input received:', {email: 'raj@example.com',password: '***'});
-console.log('Validation passed:',true);
-console.log('--- User Validation End ---');
+// console.log('--- User Validation Start ---');
+// console.log('Input received:', {email: 'raj@example.com',password: '***'});
+// console.log('Validation passed:',true);
+// console.log('--- User Validation End ---');
 
